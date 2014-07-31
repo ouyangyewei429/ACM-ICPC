@@ -1,0 +1,44 @@
+USER: ouyang yewei [ouyangy4]
+TASK: pprime
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [0.000 secs, 3348 KB]
+   Test 2: TEST OK [0.000 secs, 3348 KB]
+   Test 3: TEST OK [0.000 secs, 3348 KB]
+   Test 4: TEST OK [0.000 secs, 3348 KB]
+   Test 5: TEST OK [0.000 secs, 3348 KB]
+   Test 6: TEST OK [0.000 secs, 3348 KB]
+   Test 7: TEST OK [0.054 secs, 3348 KB]
+   Test 8: TEST OK [0.043 secs, 3348 KB]
+   Test 9: TEST OK [0.054 secs, 3348 KB]
+
+All tests OK.
+Your program ('pprime') produced all correct answers!  This is your
+submission #4 for this problem.  Congratulations!
+
+Here are the test data inputs:
+
+------- test 1 ----
+5 500
+------- test 2 ----
+750 14000
+------- test 3 ----
+123456 1123456
+------- test 4 ----
+97000 1299000
+------- test 5 ----
+9878210 9978210
+------- test 6 ----
+9902099 9902100
+------- test 7 ----
+7 10000000
+------- test 8 ----
+1333331 9743479
+------- test 9 ----
+5 100000000
+Keep up the good work!
+Thanks for your submission!

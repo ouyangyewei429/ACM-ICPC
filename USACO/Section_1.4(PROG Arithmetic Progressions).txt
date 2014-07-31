@@ -1,0 +1,53 @@
+USER: ouyang yewei [ouyangy4]
+TASK: ariprog
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [0.000 secs, 3976 KB]
+   Test 2: TEST OK [0.000 secs, 3976 KB]
+   Test 3: TEST OK [0.000 secs, 3976 KB]
+   Test 4: TEST OK [0.000 secs, 3976 KB]
+   Test 5: TEST OK [0.011 secs, 3976 KB]
+   Test 6: TEST OK [0.065 secs, 3976 KB]
+   Test 7: TEST OK [0.443 secs, 3976 KB]
+   Test 8: TEST OK [0.961 secs, 3976 KB]
+   Test 9: TEST OK [1.015 secs, 3976 KB]
+
+All tests OK.
+Your program ('ariprog') produced all correct answers!  This is your
+submission #8 for this problem.  Congratulations!
+
+Here are the test data inputs:
+
+------- test 1 ----
+3
+2
+------- test 2 ----
+5
+7
+------- test 3 ----
+14
+10
+------- test 4 ----
+10
+13
+------- test 5 ----
+12
+50
+------- test 6 ----
+18
+100
+------- test 7 ----
+21
+200
+------- test 8 ----
+22
+250
+------- test 9 ----
+25
+250
+Keep up the good work!
+Thanks for your submission!

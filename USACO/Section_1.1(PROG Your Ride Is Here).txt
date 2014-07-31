@@ -1,0 +1,57 @@
+USER: ouyang yewei [ouyangy4]
+TASK: ride
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [0.000 secs, 3212 KB]
+   Test 2: TEST OK [0.000 secs, 3212 KB]
+   Test 3: TEST OK [0.000 secs, 3212 KB]
+   Test 4: TEST OK [0.011 secs, 3212 KB]
+   Test 5: TEST OK [0.000 secs, 3212 KB]
+   Test 6: TEST OK [0.000 secs, 3212 KB]
+   Test 7: TEST OK [0.011 secs, 3212 KB]
+   Test 8: TEST OK [0.000 secs, 3212 KB]
+   Test 9: TEST OK [0.011 secs, 3212 KB]
+   Test 10: TEST OK [0.011 secs, 3212 KB]
+
+All tests OK.
+Your program ('ride') produced all correct answers!  This is your
+submission #3 for this problem.  Congratulations!
+
+Here are the test data inputs:
+
+------- test 1 ----
+COMETQ
+HVNGAT
+------- test 2 ----
+STARAB
+USACO
+------- test 3 ----
+EARTH
+LEFTB
+------- test 4 ----
+PULSAR
+VENUS
+------- test 5 ----
+KANSAS
+UTAH
+------- test 6 ----
+APPLE
+URSA
+------- test 7 ----
+MSFT
+MARS
+------- test 8 ----
+PLUTO
+BKHOLE
+------- test 9 ----
+COWSBC
+RIGHT
+------- test 10 ----
+DRKMTR
+SNIKER
+Keep up the good work!
+Thanks for your submission!

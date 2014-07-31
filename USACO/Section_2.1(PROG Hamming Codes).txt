@@ -1,0 +1,50 @@
+USER: ouyang yewei [ouyangy4]
+TASK: hamming
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [0.011 secs, 3344 KB]
+   Test 2: TEST OK [0.000 secs, 3344 KB]
+   Test 3: TEST OK [0.000 secs, 3344 KB]
+   Test 4: TEST OK [0.000 secs, 3344 KB]
+   Test 5: TEST OK [0.000 secs, 3344 KB]
+   Test 6: TEST OK [0.000 secs, 3344 KB]
+   Test 7: TEST OK [0.011 secs, 3344 KB]
+   Test 8: TEST OK [0.000 secs, 3344 KB]
+   Test 9: TEST OK [0.000 secs, 3344 KB]
+   Test 10: TEST OK [0.000 secs, 3344 KB]
+   Test 11: TEST OK [0.011 secs, 3344 KB]
+
+All tests OK.
+Your program ('hamming') produced all correct answers!  This is your
+submission #2 for this problem.  Congratulations!
+
+Here are the test data inputs:
+
+------- test 1 ----
+16 7 3
+------- test 2 ----
+2 7 7
+------- test 3 ----
+3 6 4
+------- test 4 ----
+5 5 1
+------- test 5 ----
+10 8 4
+------- test 6 ----
+20 6 2
+------- test 7 ----
+32 5 1
+------- test 8 ----
+50 8 2
+------- test 9 ----
+60 7 2
+------- test 10 ----
+16 8 3
+------- test 11 ----
+15 8 4
+Keep up the good work!
+Thanks for your submission!

@@ -1,0 +1,57 @@
+USER: ouyang yewei [ouyangy4]
+TASK: beads
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [0.000 secs, 3344 KB]
+   Test 2: TEST OK [0.000 secs, 3344 KB]
+   Test 3: TEST OK [0.000 secs, 3344 KB]
+   Test 4: TEST OK [0.000 secs, 3344 KB]
+   Test 5: TEST OK [0.000 secs, 3344 KB]
+   Test 6: TEST OK [0.000 secs, 3344 KB]
+   Test 7: TEST OK [0.000 secs, 3344 KB]
+   Test 8: TEST OK [0.000 secs, 3344 KB]
+   Test 9: TEST OK [0.000 secs, 3344 KB]
+
+All tests OK.
+Your program ('beads') produced all correct answers!  This is your
+submission #4 for this problem.  Congratulations!
+
+Here are the test data inputs:
+
+------- test 1 ----
+29
+wwwbbrwrbrbrrbrbrwrwwrbwrwrrb
+------- test 2 ----
+3
+rrr
+------- test 3 ----
+77
+rwrwrwrwrwrwrwrwrwrwrwrwbwrwbwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwr
+------- test 4 ----
+17
+wwwwwwwwwwwwwwwww
+------- test 5 ----
+50
+bbrrrbrrrrrrrrbrbbbrbrrbrrrrbbbrbrbbbbbrbrrrbbrbbb
+------- test 6 ----
+8
+rrwwwwbb
+------- test 7 ----
+200
+rrrrrrrrrrrrrrrrrrrrbbbbbbbbbbbbbbbbbbbbrrrrrrrrrrrrrrrrrrrrbbbbbbbbbbbbbbbbbbbbrrrrrrrrrrrrrrrrrrrrbbbbbbbbbbbbbbbbbbbbrrrrrrrrrrrrrrrrrrrrbbbbbbbbbbbbbbbbbbbbrrrrrrrrrrrrrrrrrrrrbbbbbbbbbbbbbbbbbbbb
+------- test 8 ----
+350
+rrbbrbbbwbwwbwbbbbwwrrbbwbrwbrwbbbrbrwrwbrwwwrrbbrrwrbbrwbwrwwwrbrwwwwwrwbwwwrrbrrbbbrbrbbbrbbbrbbwbbbbbrbrrbrwwbrrrrwbwrwrbbwbwrbrbrwwbrrbwbrwwbwwwbrbwrwbwbrbbbwrbwwrrrbwbwbbbbbrrwwwrbrwwrbbwrbbrbbrbwrrwwbrrrbrwbrwwrbwbwrrrbwrwrrbrbbwrwrbrwwwrwbwrrwwwwrrrwrrwbbwrwwrwrbwwbwrrrrbbwrbbrbwwwwwbrbbrbbrbrwbbwbwwbbbbbwwwrbwwbbbwrwwbbrrwrwbwrrwwwrrrwrrwww
+------- test 9 ----
+333
+rwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwb
+
+Keep up the good work!
+
+
+Thanks for your submission!
+

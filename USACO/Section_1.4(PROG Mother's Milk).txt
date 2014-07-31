@@ -1,0 +1,48 @@
+USER: ouyang yewei [ouyangy4]
+TASK: milk3
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [0.000 secs, 3364 KB]
+   Test 2: TEST OK [0.000 secs, 3364 KB]
+   Test 3: TEST OK [0.000 secs, 3364 KB]
+   Test 4: TEST OK [0.000 secs, 3364 KB]
+   Test 5: TEST OK [0.000 secs, 3364 KB]
+   Test 6: TEST OK [0.000 secs, 3364 KB]
+   Test 7: TEST OK [0.000 secs, 3364 KB]
+   Test 8: TEST OK [0.000 secs, 3364 KB]
+   Test 9: TEST OK [0.000 secs, 3364 KB]
+   Test 10: TEST OK [0.000 secs, 3364 KB]
+
+All tests OK.
+YOUR PROGRAM ('milk3') WORKED FIRST TIME!  That's fantastic
+-- and a rare thing.  Please accept these special automated
+congratulations.
+
+Here are the test data inputs:
+
+------- test 1 ----
+2 5 10
+------- test 2 ----
+20 20 20
+------- test 3 ----
+5 11 15
+------- test 4 ----
+2 12 20
+------- test 5 ----
+19 4 11
+------- test 6 ----
+5 11 13
+------- test 7 ----
+3 20 20
+------- test 8 ----
+7 16 20
+------- test 9 ----
+20 10 9
+------- test 10 ----
+7 12 18
+Keep up the good work!
+Thanks for your submission!

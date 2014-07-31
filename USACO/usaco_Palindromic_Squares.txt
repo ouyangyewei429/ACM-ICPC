@@ -1,0 +1,45 @@
+USER: ouyang yewei [ouyangy4]
+TASK: palsquare
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [0.000 secs, 3344 KB]
+   Test 2: TEST OK [0.000 secs, 3344 KB]
+   Test 3: TEST OK [0.000 secs, 3344 KB]
+   Test 4: TEST OK [0.000 secs, 3344 KB]
+   Test 5: TEST OK [0.000 secs, 3344 KB]
+   Test 6: TEST OK [0.000 secs, 3344 KB]
+   Test 7: TEST OK [0.000 secs, 3344 KB]
+   Test 8: TEST OK [0.000 secs, 3344 KB]
+
+All tests OK.
+Your program ('palsquare') produced all correct answers!  This is your
+submission #3 for this problem.  Congratulations!
+
+Here are the test data inputs:
+
+------- test 1 ----
+10
+------- test 2 ----
+2
+------- test 3 ----
+5
+------- test 4 ----
+11
+------- test 5 ----
+15
+------- test 6 ----
+18
+------- test 7 ----
+20
+------- test 8 ----
+3
+
+Keep up the good work!
+
+
+Thanks for your submission!
+

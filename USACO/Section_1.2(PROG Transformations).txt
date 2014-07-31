@@ -1,0 +1,125 @@
+USER: ouyang yewei [ouyangy4]
+TASK: transform
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [0.000 secs, 3348 KB]
+   Test 2: TEST OK [0.000 secs, 3348 KB]
+   Test 3: TEST OK [0.000 secs, 3348 KB]
+   Test 4: TEST OK [0.000 secs, 3348 KB]
+   Test 5: TEST OK [0.000 secs, 3348 KB]
+   Test 6: TEST OK [0.000 secs, 3348 KB]
+   Test 7: TEST OK [0.000 secs, 3348 KB]
+   Test 8: TEST OK [0.000 secs, 3348 KB]
+
+All tests OK.
+Your program ('transform') produced all correct answers!  This is your
+submission #3 for this problem.  Congratulations!
+
+Here are the test data inputs:
+
+------- test 1 ----
+3
+---
+---
+---
+---
+-@-
+---
+------- test 2 ----
+5
+-@@@-
+-@@--
+-@---
+-----
+-----
+-----
+----@
+---@@
+--@@@
+-----
+------- test 3 ----
+5
+@@@@@
+@---@
+@@@@@
+@@@@@
+@@@@@
+@@@@@
+@@@@@
+@@@@@
+@---@
+@@@@@
+------- test 4 ----
+6
+-@-@-@
+@-@-@-
+-@-@-@
+@-@-@-
+-@-@-@
+@-@-@-
+@-@-@-
+-@-@-@
+@-@-@-
+-@-@-@
+@-@-@-
+-@-@-@
+------- test 5 ----
+3
+@@@
+---
+@@@
+@@@
+---
+@@@
+------- test 6 ----
+4
+@@@@
+@@@@
+-@@@
+@@@@
+@@@@
+@@@@
+@@@-
+@@@@
+------- test 7 ----
+4
+@-@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@-@@
+------- test 8 ----
+10
+@--------@
+----------
+----------
+----------
+----------
+----------
+----------
+----------
+----------
+----------
+@---------
+----------
+----------
+----------
+----------
+----------
+----------
+----------
+----------
+---------@
+
+Keep up the good work!
+
+
+Thanks for your submission!
+

@@ -1,0 +1,42 @@
+USER: ouyang yewei [ouyangy4]
+TASK: dualpal
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [0.000 secs, 3344 KB]
+   Test 2: TEST OK [0.000 secs, 3344 KB]
+   Test 3: TEST OK [0.011 secs, 3344 KB]
+   Test 4: TEST OK [0.000 secs, 3344 KB]
+   Test 5: TEST OK [0.000 secs, 3344 KB]
+   Test 6: TEST OK [0.000 secs, 3344 KB]
+   Test 7: TEST OK [0.000 secs, 3344 KB]
+
+All tests OK.
+Your program ('dualpal') produced all correct answers!  This is your
+submission #2 for this problem.  Congratulations!
+
+Here are the test data inputs:
+
+------- test 1 ----
+5 1
+------- test 2 ----
+9 10
+------- test 3 ----
+15 9900
+------- test 4 ----
+10 90
+------- test 5 ----
+12 125
+------- test 6 ----
+12 1900
+------- test 7 ----
+8 500
+
+Keep up the good work!
+
+
+Thanks for your submission!
+

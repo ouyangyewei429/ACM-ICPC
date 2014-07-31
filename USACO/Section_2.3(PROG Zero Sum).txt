@@ -1,0 +1,38 @@
+USER: ouyang yewei [ouyangy4]
+TASK: zerosum
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [0.000 secs, 3344 KB]
+   Test 2: TEST OK [0.000 secs, 3344 KB]
+   Test 3: TEST OK [0.000 secs, 3344 KB]
+   Test 4: TEST OK [0.000 secs, 3344 KB]
+   Test 5: TEST OK [0.011 secs, 3344 KB]
+   Test 6: TEST OK [0.000 secs, 3344 KB]
+   Test 7: TEST OK [0.011 secs, 3344 KB]
+
+All tests OK.
+Your program ('zerosum') produced all correct answers!  This is your
+submission #3 for this problem.  Congratulations!
+
+Here are the test data inputs:
+
+------- test 1 ----
+3
+------- test 2 ----
+4
+------- test 3 ----
+5
+------- test 4 ----
+6
+------- test 5 ----
+7
+------- test 6 ----
+8
+------- test 7 ----
+9
+Keep up the good work!
+Thanks for your submission!

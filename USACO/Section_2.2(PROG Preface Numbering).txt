@@ -1,0 +1,42 @@
+USER: ouyang yewei [ouyangy4]
+TASK: preface
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [0.000 secs, 3344 KB]
+   Test 2: TEST OK [0.000 secs, 3344 KB]
+   Test 3: TEST OK [0.000 secs, 3344 KB]
+   Test 4: TEST OK [0.000 secs, 3344 KB]
+   Test 5: TEST OK [0.000 secs, 3344 KB]
+   Test 6: TEST OK [0.000 secs, 3344 KB]
+   Test 7: TEST OK [0.000 secs, 3344 KB]
+   Test 8: TEST OK [0.000 secs, 3344 KB]
+
+All tests OK.
+YOUR PROGRAM ('preface') WORKED FIRST TIME!  That's fantastic
+-- and a rare thing.  Please accept these special automated
+congratulations.
+
+Here are the test data inputs:
+
+------- test 1 ----
+1
+------- test 2 ----
+20
+------- test 3 ----
+100
+------- test 4 ----
+500
+------- test 5 ----
+1000
+------- test 6 ----
+2974
+------- test 7 ----
+3213
+------- test 8 ----
+3499
+Keep up the good work!
+Thanks for your submission!

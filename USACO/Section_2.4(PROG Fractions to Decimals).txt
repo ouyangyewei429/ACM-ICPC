@@ -1,0 +1,44 @@
+USER: ouyang yewei [ouyangy4]
+TASK: fracdec
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [0.000 secs, 3928 KB]
+   Test 2: TEST OK [0.000 secs, 3928 KB]
+   Test 3: TEST OK [0.000 secs, 3928 KB]
+   Test 4: TEST OK [0.000 secs, 3928 KB]
+   Test 5: TEST OK [0.000 secs, 3928 KB]
+   Test 6: TEST OK [0.000 secs, 3928 KB]
+   Test 7: TEST OK [0.000 secs, 3928 KB]
+   Test 8: TEST OK [0.011 secs, 3928 KB]
+   Test 9: TEST OK [0.000 secs, 3928 KB]
+
+All tests OK.
+Your program ('fracdec') produced all correct answers!  This is your
+submission #4 for this problem.  Congratulations!
+
+Here are the test data inputs:
+
+------- test 1 ----
+22 5
+------- test 2 ----
+1 7
+------- test 3 ----
+100000 59
+------- test 4 ----
+1 100000
+------- test 5 ----
+3 3
+------- test 6 ----
+59 330
+------- test 7 ----
+100000 9817
+------- test 8 ----
+1 99991
+------- test 9 ----
+982 4885
+Keep up the good work!
+Thanks for your submission!

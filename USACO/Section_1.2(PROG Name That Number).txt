@@ -1,0 +1,66 @@
+USER: ouyang yewei [ouyangy4]
+TASK: namenum
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [0.000 secs, 3424 KB]
+   Test 2: TEST OK [0.000 secs, 3424 KB]
+   Test 3: TEST OK [0.032 secs, 3424 KB]
+   Test 4: TEST OK [0.000 secs, 3424 KB]
+   Test 5: TEST OK [0.000 secs, 3424 KB]
+   Test 6: TEST OK [0.000 secs, 3424 KB]
+   Test 7: TEST OK [0.000 secs, 3424 KB]
+   Test 8: TEST OK [0.000 secs, 3424 KB]
+   Test 9: TEST OK [0.054 secs, 3424 KB]
+   Test 10: TEST OK [0.119 secs, 3424 KB]
+   Test 11: TEST OK [0.000 secs, 3424 KB]
+   Test 12: TEST OK [0.097 secs, 3424 KB]
+   Test 13: TEST OK [0.000 secs, 3424 KB]
+   Test 14: TEST OK [0.000 secs, 3424 KB]
+   Test 15: TEST OK [0.000 secs, 3424 KB]
+
+All tests OK.
+Your program ('namenum') produced all correct answers!  This is your
+submission #2 for this problem.  Congratulations!
+
+Here are the test data inputs:
+
+------- test 1 ----
+4734
+------- test 2 ----
+234643
+------- test 3 ----
+5747867437
+------- test 4 ----
+223
+------- test 5 ----
+532
+------- test 6 ----
+546
+------- test 7 ----
+53662
+------- test 8 ----
+5455426
+------- test 9 ----
+26678268463
+------- test 10 ----
+463373633623
+------- test 11 ----
+282742662
+------- test 12 ----
+463373633623
+------- test 13 ----
+2336
+------- test 14 ----
+5264
+------- test 15 ----
+426
+
+Keep up the good work!
+
+
+Thanks for your submission!
+

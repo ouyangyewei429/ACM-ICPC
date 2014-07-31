@@ -1,0 +1,52 @@
+
+	 USACO Training
+Grader Results	
+24 users online
+AUT/1 BGR/1 CAN/1 CHN/14 IRN/2 KOR/1 USA/4
+
+ USER: ouyang yewei [ouyangy4]
+TASK: crypt1
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [0.000 secs, 3344 KB]
+   Test 2: TEST OK [0.011 secs, 3344 KB]
+   Test 3: TEST OK [0.000 secs, 3344 KB]
+   Test 4: TEST OK [0.011 secs, 3344 KB]
+   Test 5: TEST OK [0.011 secs, 3344 KB]
+   Test 6: TEST OK [0.011 secs, 3344 KB]
+   Test 7: TEST OK [0.011 secs, 3344 KB]
+
+All tests OK.
+Your program ('crypt1') produced all correct answers!  This is your
+submission #3 for this problem.  Congratulations!
+
+Here are the test data inputs:
+
+------- test 1 ----
+5
+2 3 4 6 8
+------- test 2 ----
+4
+2 3 5 7
+------- test 3 ----
+1
+1
+------- test 4 ----
+7
+4 1 2 5 6 7 3
+------- test 5 ----
+8
+9 1 7 3 5 4 6 8
+------- test 6 ----
+6
+1 2 3 5 7 9
+------- test 7 ----
+9
+1 2 3 4 5 6 7 8 9
+Keep up the good work!
+Thanks for your submission!
+

@@ -1,0 +1,65 @@
+USER: ouyang yewei [ouyangy4]
+TASK: clocks
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [0.022 secs, 3344 KB]
+   Test 2: TEST OK [0.011 secs, 3344 KB]
+   Test 3: TEST OK [0.032 secs, 3344 KB]
+   Test 4: TEST OK [0.043 secs, 3344 KB]
+   Test 5: TEST OK [0.022 secs, 3344 KB]
+   Test 6: TEST OK [0.032 secs, 3344 KB]
+   Test 7: TEST OK [0.043 secs, 3344 KB]
+   Test 8: TEST OK [0.043 secs, 3344 KB]
+   Test 9: TEST OK [0.043 secs, 3344 KB]
+
+All tests OK.
+Your program ('clocks') produced all correct answers!  This is your
+submission #2 for this problem.  Congratulations!
+
+Here are the test data inputs:
+
+------- test 1 ----
+9 9 12
+6 6 6
+6 3 6
+------- test 2 ----
+12 9 12
+9 9 9
+12 9 12
+------- test 3 ----
+6 9 3
+3 3 9
+12 12 12
+------- test 4 ----
+9 3 9
+9 9 9
+9 9 9
+------- test 5 ----
+6 12 12
+12 12 12
+12 12 12
+------- test 6 ----
+3 12 9
+6 6 6
+12 12 12
+------- test 7 ----
+12 3 3
+3 6 6
+12 3 6
+------- test 8 ----
+12 3 9
+9 12 12
+3 6 9
+------- test 9 ----
+9 12 9
+12 3 12
+9 12 9
+
+Keep up the good work!
+
+
+Thanks for your submission!

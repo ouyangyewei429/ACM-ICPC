@@ -1,0 +1,38 @@
+USER: ouyang yewei [ouyangy4]
+TASK: subset
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [0.000 secs, 3592 KB]
+   Test 2: TEST OK [0.000 secs, 3592 KB]
+   Test 3: TEST OK [0.011 secs, 3592 KB]
+   Test 4: TEST OK [0.011 secs, 3592 KB]
+   Test 5: TEST OK [0.000 secs, 3592 KB]
+   Test 6: TEST OK [0.011 secs, 3592 KB]
+   Test 7: TEST OK [0.000 secs, 3592 KB]
+
+All tests OK.
+Your program ('subset') produced all correct answers!  This is your
+submission #4 for this problem.  Congratulations!
+
+Here are the test data inputs:
+
+------- test 1 ----
+7
+------- test 2 ----
+15
+------- test 3 ----
+24
+------- test 4 ----
+31
+------- test 5 ----
+36
+------- test 6 ----
+39
+------- test 7 ----
+37
+Keep up the good work!
+Thanks for your submission!

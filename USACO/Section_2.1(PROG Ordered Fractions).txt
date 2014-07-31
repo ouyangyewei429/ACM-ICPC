@@ -1,0 +1,50 @@
+USER: ouyang yewei [ouyangy4]
+TASK: frac1
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [0.000 secs, 11160 KB]
+   Test 2: TEST OK [0.011 secs, 11160 KB]
+   Test 3: TEST OK [0.000 secs, 11160 KB]
+   Test 4: TEST OK [0.000 secs, 11160 KB]
+   Test 5: TEST OK [0.000 secs, 11160 KB]
+   Test 6: TEST OK [0.000 secs, 11160 KB]
+   Test 7: TEST OK [0.000 secs, 11160 KB]
+   Test 8: TEST OK [0.011 secs, 11160 KB]
+   Test 9: TEST OK [0.011 secs, 11160 KB]
+   Test 10: TEST OK [0.011 secs, 11160 KB]
+   Test 11: TEST OK [0.022 secs, 11160 KB]
+
+All tests OK.
+Your program ('frac1') produced all correct answers!  This is your
+submission #6 for this problem.  Congratulations!
+
+Here are the test data inputs:
+
+------- test 1 ----
+1
+------- test 2 ----
+2
+------- test 3 ----
+4
+------- test 4 ----
+7
+------- test 5 ----
+10
+------- test 6 ----
+15
+------- test 7 ----
+24
+------- test 8 ----
+50
+------- test 9 ----
+75
+------- test 10 ----
+100
+------- test 11 ----
+160
+Keep up the good work!
+Thanks for your submission!

@@ -1,0 +1,44 @@
+USER: ouyang yewei [ouyangy4]
+TASK: friday
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [0.000 secs, 3344 KB]
+   Test 2: TEST OK [0.000 secs, 3344 KB]
+   Test 3: TEST OK [0.000 secs, 3344 KB]
+   Test 4: TEST OK [0.000 secs, 3344 KB]
+   Test 5: TEST OK [0.000 secs, 3344 KB]
+   Test 6: TEST OK [0.000 secs, 3344 KB]
+   Test 7: TEST OK [0.000 secs, 3344 KB]
+   Test 8: TEST OK [0.000 secs, 3344 KB]
+
+All tests OK.
+Your program ('friday') produced all correct answers!  This is your
+submission #2 for this problem.  Congratulations!
+
+Here are the test data inputs:
+
+------- test 1 ----
+1
+------- test 2 ----
+2
+------- test 3 ----
+5
+------- test 4 ----
+13
+------- test 5 ----
+45
+------- test 6 ----
+100
+------- test 7 ----
+256
+------- test 8 ----
+400
+
+Keep up the good work!
+
+
+Thanks for your submission!

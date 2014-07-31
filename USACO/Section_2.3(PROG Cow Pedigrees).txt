@@ -1,0 +1,54 @@
+USER: ouyang yewei [ouyangy4]
+TASK: nocows
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [0.000 secs, 3504 KB]
+   Test 2: TEST OK [0.011 secs, 3504 KB]
+   Test 3: TEST OK [0.011 secs, 3504 KB]
+   Test 4: TEST OK [0.000 secs, 3504 KB]
+   Test 5: TEST OK [0.011 secs, 3504 KB]
+   Test 6: TEST OK [0.011 secs, 3504 KB]
+   Test 7: TEST OK [0.032 secs, 3504 KB]
+   Test 8: TEST OK [0.054 secs, 3504 KB]
+   Test 9: TEST OK [0.032 secs, 3504 KB]
+   Test 10: TEST OK [0.022 secs, 3504 KB]
+   Test 11: TEST OK [0.065 secs, 3504 KB]
+   Test 12: TEST OK [0.054 secs, 3504 KB]
+
+All tests OK.
+YOUR PROGRAM ('nocows') WORKED FIRST TIME!  That's fantastic
+-- and a rare thing.  Please accept these special automated
+congratulations.
+
+Here are the test data inputs:
+
+------- test 1 ----
+5 3
+------- test 2 ----
+9 4
+------- test 3 ----
+35 7
+------- test 4 ----
+15 4
+------- test 5 ----
+75 47
+------- test 6 ----
+99 15
+------- test 7 ----
+172 44
+------- test 8 ----
+165 65
+------- test 9 ----
+177 57
+------- test 10 ----
+198 56
+------- test 11 ----
+199 99
+------- test 12 ----
+199 77
+Keep up the good work!
+Thanks for your submission!
