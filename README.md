@@ -9,4 +9,4 @@
  - USACO
  - UVA
  
-个人博客：http://blog.csdn.net/yeweiouyang
+个人博客：http://ouyangyewei.me/
